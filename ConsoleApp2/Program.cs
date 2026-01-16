@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Hello, World!");
 
-// My favorite programming language is C#.
+// What is your favorite programming language?
